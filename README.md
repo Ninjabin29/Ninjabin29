@@ -3,7 +3,7 @@
 **Computer Science Student @ UIU | Aspiring Systems & Robotics Engineer**
 
 <p align="center">
-  <img src="cp.png" alt="GitHub Cover" width="100%" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+  <img src="hero.png" alt="GitHub Cover" width="100%" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
 </p>
 
 ---
@@ -41,12 +41,12 @@ I'm currently moving beyond basic university assignments to explore more complex
 ### 🌟 Latest Explorations
 
 > [!TIP]
-> **[NextNest](https://github.com/Injabin/Nextnest_Find_your_new_home)**
-> My first major dive into database management and UI design. A professional desktop real-estate platform.
+> **[jibon-niye-khela](https://github.com/Injabin/jibon-niye-khela)**
+> Jibon Niye Khela is a text-driven life simulation game. You are born with random traits, stats, and a family. Every year, you make choices — study, work, fall in love, commit crime, buy property, start a business — and watch the consequences unfold. Eventually, you die, get a life summary, and decide whether to continue as your heir or begin a brand new life.
 
 > [!IMPORTANT]
-> **[GovConnect](https://github.com/Injabin/Gov_Connect-DhakaGird-/tree/main)**
-> A high-performance City Management & Emergency Response Ecosystem.
+> **[Nexus](fintech-ai-swe-proj-next-js)**
+> A fintech analytics dashboard with real-time market data, AI-powered stock analysis, and technical indicators.
 
 * 🐍 **Snake Game:** A study in game loops and collision logic.
 * 🦾 **In Development:** Experimenting with **EMG (Muscle) signals** for robotic control and designing **Quadruped** chassis in Fusion 360.

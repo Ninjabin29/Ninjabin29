@@ -70,7 +70,7 @@ A dynamic, text-driven life simulation game exploring procedural generation and 
 ## GitHub Analytics
 
 <p align="left">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=Ninjabin29&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C3D1D9&icon_color=58A6FF" height="165px" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=ninja-bean&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C3D1D9&icon_color=58A6FF" height="165px" />
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Ninjabin29&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C3D1D9" height="165px" />
 </p>
 
